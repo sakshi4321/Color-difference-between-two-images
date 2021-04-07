@@ -1,4 +1,4 @@
-# Color-difference-between-two-images
+# Color-difference-between-two-images(HSV)
 
 ## Input
 Input images have to be either jpg or jpeg. 
